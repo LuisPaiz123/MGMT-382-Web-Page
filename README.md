@@ -1,7 +1,7 @@
 <html>
   <head>
-    <h1>Khaana Customer Stories and Testimonials</h1>
-    <h6>Khaan Customer Stories and Testimonilas</h6>
+    <h1><b>Khaana Customer Stories and Testimonials</b></h1>
+    <h2></h2>
     
   </head>
   <body>
