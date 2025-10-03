@@ -1,2 +1,8 @@
-# MGMT-382-Web-Page
-Web page for customer testimonial page
+<html>
+  <head>
+    <h1>Khaana Customer Stories and Testimonials</h1>
+  </head>
+  <body>
+    
+  </body>
+</html>
