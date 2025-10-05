@@ -1,10 +1,7 @@
 <html>
-  <head>
+<body>
     
-  </head>
-  <body>
-    
-  <h1><b>Khaana Customer Stories and Testimonials</b></h1>
+<h1><b>Khaana Customer Stories and Testimonials</b></h1>
   
   
   
